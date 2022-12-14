@@ -2,3 +2,5 @@ Code
 eat
 sleep
 code...
+whalk code
+run code
